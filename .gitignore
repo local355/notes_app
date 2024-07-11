@@ -1,0 +1,30 @@
+#front-end folder
+# Nuxt dev/build outputs
+front_end/belajar-nuxt/.output
+front_end/belajar-nuxt/.nuxt
+front_end/belajar-nuxt/.nitro
+front_end/belajar-nuxt/.cache
+front_end/belajar-nuxt/dist
+
+# Node dependencies
+front_end/belajar-nuxt/node_modules
+
+# Logs
+front_end/belajar-nuxt/logs
+*.log
+
+# Misc
+front_end/belajar-nuxt/.DS_Store
+front_end/belajar-nuxt/.fleet
+front_end/belajar-nuxt/.idea
+
+# Local env files
+front_end/belajar-nuxt/.env
+front_end/belajar-nuxt/.env.*
+front_end/belajar-nuxt/!.env.example
+
+
+#back-end folder
+back_end/expjs-es6/dist-server
+back_end/expjs-es6/node_modules
+back_end/expjs-es6/.env
